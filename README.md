@@ -1,6 +1,8 @@
 # SEMAFORO CON ARDUINO UNO EN WOKWI
-# PROTOBOARD
-# ARDUINO UNO
-# CABLES DE CONEXION
-# RESISTENCIAS DE 220
-# LEDS ROJO, VERDE Y AMARILLO
+1 arduino uno
+1 protoboard
+1 LED rojo
+1 LED amarillo
+1 LED verde
+3 resistencias de 220Ω
+cables de conexión
